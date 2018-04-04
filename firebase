@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBIgB8x0YHwIoCl_CEGyBHxk0yVMCsYjvQ",
+    authDomain: "savemarker-gis2.firebaseapp.com",
+    databaseURL: "https://savemarker-gis2.firebaseio.com",
+    projectId: "savemarker-gis2",
+    storageBucket: "savemarker-gis2.appspot.com",
+    messagingSenderId: "310402062868"
+  };
+  firebase.initializeApp(config);
+</script>
